@@ -17,6 +17,8 @@ jobs:
         with:
           fetch-depth: 0
       - uses: DavidAnson/markdownlint-cli2-action@v9
-
-      - name: Lint
-        run: markdownlint-cli2 --config=.markdownlint.yml docs/**/*.md
+        with:
+          command: config
+          globs: |
+            .markdownlint.yml
+            docs/**/*.md
