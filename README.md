@@ -2,7 +2,7 @@
 
  <img src="https://docusaurus.io/pt-BR/img/docusaurus_keytar.svg" alt="Logo do Docusaurus" width="15%" />
 
- # Docusaurus Example POC
+# Docusaurus Example POC
  
 </div>
 
@@ -30,11 +30,9 @@ Diante desses problemas, decidi estudar a filosofia do Docs-as-code para encontr
 
 O Docusaurus é uma ferramenta de código aberto que se destaca na criação de documentações de projetos de forma eficiente e elegante. Desenvolvido pelo Facebook, ele é especialmente útil para projetos que buscam integrar a filosofia do Docs-as-code, proporcionando um meio simplificado e poderoso de gerenciar a documentação junto ao código-fonte.
 
-
 ## A Integração do Docusaurus com a filosofia Docs-as-code
 
 A filosofia do Docs-as-code enfatiza a importância de tratar a documentação com a mesma seriedade e utilizando as mesmas ferramentas que são aplicadas no desenvolvimento do código. Neste contexto, o Docusaurus emerge como uma solução ideal. Ele permite que os documentos sejam escritos em Markdown, uma linguagem de marcação leve, e armazenados em um repositório de código, facilitando o controle de versão e a colaboração.
-
 
 ## Automatização com CI/CD
 
