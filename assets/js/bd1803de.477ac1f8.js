@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocusaurus_example_poc=self.webpackChunkdocusaurus_example_poc||[]).push([[540],{5620:e=>{e.exports=JSON.parse('{"title":"Quick Start","slug":"/category/quick-start","permalink":"/docusaurus-example-poc/1.0.0/category/quick-start","navigation":{"next":{"title":"Introdu\xe7\xe3o","permalink":"/docusaurus-example-poc/1.0.0/"}}}')}}]);
